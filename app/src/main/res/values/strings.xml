@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shared Preference</string>
+    <string name="name">Enter your name</string>
+    <string name="checkbox_text">Vaccinated?</string>
+    <string name="load">Load</string>
+    <string name="save">Save data</string>
+</resources>
